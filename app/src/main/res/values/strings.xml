@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">King Restaurant</string>
+    <string name="welcome_restaurant">Welcome to King Restaurant</string>
+    <string name="contact_information">Contact information</string>
+    <string name="num">+966 000 000 000</string>
+    <string name="add">Al Abbas Ibn Abdulmutalib, At Taawun, Riyadh</string>
+
+</resources>
